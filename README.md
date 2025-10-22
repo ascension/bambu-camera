@@ -20,3 +20,5 @@ if (model === 'P1P' || model === 'P1S' || model === 'A1' || model === 'A1M') {
   url = `rtsps://bblp:${accessToken}@${ip}:322/streaming/live/1`;
 }
 ```
+
+https://public-cdn.bambulab.com/upgrade/studio/plugins/01.04.00.15/
